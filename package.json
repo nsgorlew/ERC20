@@ -1,0 +1,19 @@
+{
+  "name": "erc20",
+  "version": "1.0.0",
+  "description": "Create ERC20 and frontend for buying the tokens",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nsgorlew/ERC20.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nsgorlew/ERC20/issues"
+  },
+  "homepage": "https://github.com/nsgorlew/ERC20#readme"
+}
