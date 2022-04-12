@@ -1,2 +1,2 @@
 # ERC20
-Create ERC20 and frontend for buying the tokens
+Create ERC20 tokens
